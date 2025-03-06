@@ -20,7 +20,7 @@ body {
 }
 .col{
     color: #502314;
-    font-size: 35px;
+    font-size: 30px;
     
 }
 .con{
@@ -69,5 +69,14 @@ input[type="checkbox"]{
     text-align: center;
     font-size: 20px;
     cursor: pointer;
+}
+
+.no-order{
+    text-align: center;
+    color: #502314;
+}
+.orderId{
+     color: orangered;
+     margin-left: 64%;
 }
 
